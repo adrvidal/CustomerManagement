@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.gestion_clientes.model.Cliente;
 import com.example.gestion_clientes.service.ClienteService;
-
+// Cosas nuevas 
 @RestController
 @RequestMapping("/api/clientes")
 public class ClienteController {
